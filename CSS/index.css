@@ -4,7 +4,7 @@ main{
     height: calc(100vh - 60px);
     background-color: #3b6cc5;
     margin-top: 60px;
-    background-image: url(../IMG/ogre.png), url(../IMG/river.jpg);
+    background-image: url(../ogre.png), url(../river.jpg);
     background-size: 70vh, cover;
     background-repeat: no-repeat;
     background-position: bottom left calc(50% + 0px), center;
@@ -93,16 +93,16 @@ main .main-quotes {
 }
 
 .index-category-box:nth-child(2){
-    background-image: url(../IMG/CATEGORY/code.jpg);
+    background-image: url(../CATEGORY/code.jpg);
 }
 .index-category-box:nth-child(3){
-    background-image: url(../IMG/CATEGORY/gamepad.png);
+    background-image: url(../CATEGORY/gamepad.png);
 }
 .index-category-box:nth-child(4){
-    background-image: url(../IMG/CATEGORY/lightbulb.jpg);
+    background-image: url(../CATEGORY/lightbulb.jpg);
 }
 .index-category-box:nth-child(5){
-    background-image: url(../IMG/CATEGORY/keyboard.jpg);
+    background-image: url(../CATEGORY/keyboard.jpg);
 }
 
 .dark-overlay{
