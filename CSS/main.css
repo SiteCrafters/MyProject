@@ -20,7 +20,7 @@ body:after{
     height: 0;
     overflow: hidden;
     z-index: -1;
-    content: url(../IMG/facebook-color.png) url(../IMG/instagram-color.png);  
+    content: url(../facebook-color.png) url(../instagram-color.png);  
 }
 .wrapper-main{
     width: 1200px;
@@ -130,25 +130,25 @@ p{
 .header-main-sm-fb{
     width: 20px;
     height: 20px;
-    background-image: url(../IMG/facebook.png);
+    background-image: url(../facebook.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .header-main-sm-fb:hover{
-    background-image: url(../IMG/facebook-color.png);
+    background-image: url(../facebook-color.png);
 }
 
 .header-main-sm-in{
     width: 20px;
     height: 20px;
-    background-image: url(../IMG/instagram.png);
+    background-image: url(../instagram.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .header-main-sm-in:hover{
-    background-image: url(../IMG/instagram-color.png);
+    background-image: url(../instagram-color.png);
 }
 
 /* FOOTER */
@@ -248,7 +248,7 @@ p{
         margin-left: 10px;
         width: 50px;
         height: 50px;
-        background-image: url(../IMG/ICONS/burger-menu.png), url(../IMG/ICONS/close.png);
+        background-image: url(../ICONS/burger-menu.png), url(../ICONS/close.png);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center, center left 50px;
